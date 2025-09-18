@@ -12,20 +12,20 @@ playstore_link                           : # Ajoutez le lien Google Play Store q
 # App Info
 app_icon                                 : # assets/appicon.png
 app_name                                 : Talk To Me Later
-app_price                                : Free
+app_price                                : 1,99 $
 app_description                          : Leave voice capsules for your future self. Schedule when to receive them and rediscover your thoughts when the time is right.
 
 enable_smart_app_banner                  : true
 
 # Your info
 your_name                                : AudioCapsule Team
-your_link                                : https://votre-username.github.io/talk-to-me-later-website
-your_city                                : Saint-Constant
-email_address                            : contact@talktomylater.app
+your_link                                : https://talktomelaterapp.github.io/talk-to-me-later-website
+your_city                                : Longueuil
+email_address                            : talktomelaterapp@gmail.com
 facebook_username                        : 
 instagram_username                       : 
 twitter_username                         : 
-github_username                          : votre-username
+github_username                          : 
 youtube_username                         :
 mastodon_link                           : 
 
@@ -33,7 +33,7 @@ mastodon_link                           :
 features                                 :
 
   - title                                : 🎤 Easy Recording
-    description                          : Record 30-second voice messages with a simple countdown timer
+    description                          : Record 20-second voice messages with a simple countdown timer
     fontawesome_icon_name                : microphone
     
   - title                                : ⏰ Schedule Delivery  
