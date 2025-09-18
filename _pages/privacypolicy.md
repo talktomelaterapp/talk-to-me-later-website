@@ -63,7 +63,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:
-**Email**: privacy@talktomeylater.app
+**Email**: 	talktomelaterapp@gmail.com
 
 ---
 
