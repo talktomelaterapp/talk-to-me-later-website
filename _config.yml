@@ -2,9 +2,9 @@
 page_title                                : Talk To Me Later
 
 # App Info
-ios_app_id                                : # Votre ID iOS si vous en avez un plus tard
+ios_app_id                                : 
 android_app_id                           : com.example.audiocapsule
-ios_app_country                          : us
+ios_app_country                          : ca
 
 appstore_link                            : https://play.google.com/store/apps/details?id=com.example.audiocapsule
 playstore_link                           : # Ajoutez le lien Google Play Store quand vous l'aurez
