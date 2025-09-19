@@ -52,9 +52,9 @@ features                                 :
     description                          : Get notified when your capsule is ready to listen
     fontawesome_icon_name                : bell
     
-  - title                                : 📝 Organize & Name
+  - title                                : ❶ One-time purchase
     description                          : Add custom names to your capsules for easy organization
-    fontawesome_icon_name                : edit
+    fontawesome_icon_name                : one
 
 # Theme Settings
 topbar_color                             : "#000000"
